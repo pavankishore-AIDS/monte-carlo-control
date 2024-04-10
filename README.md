@@ -80,7 +80,7 @@ def mc_control (env, gamma = 1.0,
 
 ## OUTPUT:
 
-### 1st Ouput
+### 1st Output
 
 ![image](https://github.com/EASWAR17/monte-carlo-control/assets/94154683/90cdb02c-a016-4896-b27d-1510186b552b)
 
